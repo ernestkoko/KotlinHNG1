@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Details</string>
+    <string name="full_name">Full Name: Ernest Osabueku Eferetin</string>
+    <string name="slack_name">User Name: ernestkoko</string>
+    <string name="email">Email: ernesteferetin@yahoo.com</string>
+    <string name="track">Track: Mobile</string>
+</resources>
